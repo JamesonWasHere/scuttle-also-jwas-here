@@ -3,7 +3,7 @@ const { createProxyMiddleware } = require('http-proxy-middleware');
 
 const app = express();
 
-const nggUrl = 'https://proxyium.com/';
+const nggUrl = 'https://www.y9freegames.com/game/roblox-online/';
 
 const proxy = createProxyMiddleware({
   target: nggUrl,
